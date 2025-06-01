@@ -16,7 +16,7 @@ This repository documents my self-studies and consists of various resources, tut
 
 [ISL with Python](https://www.statlearning.com/resources-python)
 
-### 🔗Websites
+### 🔗Websites & Githubs
 [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 [Kaggle-Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners#DATA-SCIENTIST)
@@ -24,6 +24,8 @@ This repository documents my self-studies and consists of various resources, tut
 [IBM](https://www.ibm.com/think/topics/supervised-learning)
 
 [CS188 Intro to AI -- Course Materials](https://ai.berkeley.edu/home.html)
+
+[ISLP labs(Github)](https://github.com/intro-stat-learning/ISLP_labs)
 
 ### 📝Tutorials & Guides
 [datacamp](https://www.datacamp.com/tutorial/category/python)
