@@ -1,6 +1,7 @@
 # Artificial-Intelligence
 
 Welcome to my  Artificial Intelligence repository!
+
 This repository documents my self-studies and consists of various resources, tutorials, practises for AI
 
 ## 📌 Resources
