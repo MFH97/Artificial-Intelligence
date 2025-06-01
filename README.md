@@ -10,13 +10,18 @@ This repository documents my self-studies and consists of various resources, tut
 [Dive into Deep Learning](https://d2l.ai/)
 
 [Deep Learning](https://www.deeplearningbook.org/)
+
 [CMP784: Deep Learning](https://web.cs.hacettepe.edu.tr/~erkut/cmp784.f22/lectures.html)
+
 [ISL with Python](https://www.statlearning.com/resources-python)
 
 ### 🔗Websites
 [Mathematics for Machine Learning](https://mml-book.github.io/)
+
 [Kaggle-Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners#DATA-SCIENTIST)
+
 [IBM](https://www.ibm.com/think/topics/supervised-learning)
+
 [CS188 Intro to AI -- Course Materials](https://ai.berkeley.edu/home.html)
 
 ### 📝Tutorials & Guides
