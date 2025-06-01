@@ -6,7 +6,9 @@ This repository documents my self-studies and consists of various resources, tut
 ## 📌 Resources
 ### 🗺️Books
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
 [Dive into Deep Learning](https://d2l.ai/)
+
 [Deep Learning](https://www.deeplearningbook.org/)
 [CMP784: Deep Learning](https://web.cs.hacettepe.edu.tr/~erkut/cmp784.f22/lectures.html)
 [ISL with Python](https://www.statlearning.com/resources-python)
@@ -31,3 +33,4 @@ This repository documents my self-studies and consists of various resources, tut
 ### Courses
 [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
 [7 Free Courses To Learn Generative AI in 2025](https://www.forbes.com/sites/rachelwells/2024/12/02/7-free-generative-ai-courses-for-2025/)
+
