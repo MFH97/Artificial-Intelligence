@@ -37,7 +37,9 @@ This repository documents my self-studies and consists of various resources, tut
 
 ### 📺YouTube
 [Brandon Rohrer](https://www.youtube.com/@BrandonRohrer/playlists)
+
 [3Blue1Brown](https://www.youtube.com/@3blue1brown/playlists)
+
 [Link Text](URL)
 
 ### Courses
